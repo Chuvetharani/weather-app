@@ -8,3 +8,4 @@ cd weather-app
 npm install
 # Run the app
 npm start
+# Search any place in searchbar to see the weather. 
